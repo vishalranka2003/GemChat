@@ -2,7 +2,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
-import 'API_KEY/api_key.dart';
+import 'api/api_key.dart';
 
 void main() async {
   // Access your API key as an environment variable (see first step above)
